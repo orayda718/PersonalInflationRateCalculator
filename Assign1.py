@@ -1,6 +1,5 @@
 # Name: Orayda Shagifa
-# CS1026 Assignment 1: Inflation Rate
-# Description: Program calculates personal inflation rate and type of inflation.
+# Description: Inflation Rate, Program calculates personal inflation rate and type of inflation.
 # Inflation rate = ((total expenses of current year - total expenses of the previous year)/(total expenses of the current year)) * 100%
 
 totPYear = 0    # variable to store total expenses for the previous
